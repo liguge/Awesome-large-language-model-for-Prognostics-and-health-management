@@ -133,7 +133,14 @@
 113|LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions|LLM-ACTR：从认知模型到制造解决方案中的大型语言模型|2025|Proceedings of the 2025 AAAI Spring Symposium Series|
 114|Human–Artificial Intelligence Teaming for Scientific Information Extraction From Data-Driven Additive Manufacturing Literature Using Large Language Models|使用大型语言模型进行人机智能协作，从数据驱动的增材制造文献中提取科学信息|2025|Journal of Computing and Information Science in Engineering|
 115|How Large AI Model Empowers Time-Series Forecasting for the Operation and Maintenance of Industrial Automation System?|大型AI模型如何赋能工业自动化系统运维的时间序列预测？|2025|IEEE Transactions on Industrial Informatics|
-|||||
+116|Human-artificial intelligence teaming for scientific information extraction from data-driven additive manufacturing research using large language models|使用大型语言模型进行人机智能协作，从数据驱动的增材制造研究中提取科学信息|2025|Journal of Computing and Information Science in Engineering|
+117|Adaptive fault diagnosis of railway vehicle on-board controller with large language models|利用大语言模型的铁路车辆车载控制器自适应故障诊断|2025|Applied Soft Computing|
+118|WamGLM: A multimodal large-scale language model for wafer map defect information in-depth query through multi-turn dialogue based on prototypical supervised contrastive learning|WamGLM：一种多模态的大规模语言模型，用于基于原型监督对比学习的多轮对话中深入查询晶圆图缺陷信息|2025|Applied Soft Computing|[code](https://github.com/ZihaoLei/WamGLM)
+119|UPTM-LLM: Large Language Models-Powered Urban Pedestrian Travel Modes Recognition for Intelligent Transportation System|UPTM-LLM：智能交通系统中基于大型语言模型的城市行人出行模式识别|2025|Applied Soft Computing|
+120|Enhancing aero-engine blade few-shot anomaly detection with visual-language multi-modal models under domain shift conditions|在域偏移条件下，利用视觉语言多模态模型增强航空发动机叶片少样本异常检测|2025|Advanced Engineering Informatics|
+121|Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs|通过集成大型语言模型和领域知识图谱对CNC进行智能故障诊断|2025|Engineering|
+122|A unified rotating machinery health management framework leveraging large language models for diverse components, conditions, and tasks|一个统一的旋转机械健康管理框架，利用大型语言模型处理多样化的组件、条件和任务|2025|Engineering Applications of Artificial Intelligence|[code](https://github.com/SIA-IDE/RotLLM)
+123|Syn-Diag: An LLM-based Synergistic Framework for Generalizable Few-shot Fault Diagnosis on the Edge|Syn-Diag：一种基于LLM的边缘可泛化少样本故障诊断的协同框架|2025|ArXiV|
 
 
 
