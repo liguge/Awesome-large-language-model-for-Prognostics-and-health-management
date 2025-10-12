@@ -32,7 +32,7 @@
 12 |Diff-MTS: Temporal-Augmented Conditional Diffusion-Based AIGC for Industrial Time Series Toward the Large Model Era |Diff-MTS：面向大模型时代的工业时间序列的时序增强条件扩散生成模型 |2024     |IEEE Transactions on Cybernetics                             |
 13 |FaultExplainer Leveraging large language models for interpretable fault detection and diagnosis |故障解释器：利用大语言模型实现可解释的故障检测与诊断         |2024     |ArXiv                                                        |
 14 |ChatGPT-like large-scale foundation models for prognostics and health management A survey and roadmaps |✅面向预测与健康管理的类ChatGPT大规模基础模型：综述与路线图    |2024     |Reliability Engineering & System Safety                      |
-15 |[DiagLLM: Multimodal Reasoning with Large Language Model for Explainable Bearing Fault Diagnosis](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4333-7) |DiagLLM：基于大语言模型的多模态推理用于可解释的轴承故障诊断  |2024     |SCIENCE CHINA Information Sciences                                                  |
+15 |DiagLLM: Multimodal Reasoning with Large Language Model for Explainable Bearing Fault Diagnosis |DiagLLM：基于大语言模型的多模态推理用于可解释的轴承故障诊断  |2024     |SCIENCE CHINA Information Sciences                                                  |
 16 |BearingFM Towards a foundation model for bearing fault diagnosis by domain knowledge and contrastive learning |~面向轴承故障诊断的基础模型：基于领域知识与对比学习方法      |2024     |International Journal of Production Economics                |
 17 |Empirical study on fine-tuning pre-trained large language models for fault diagnosis of complex systems |针对复杂系统故障诊断的预训练大语言模型微调实证研究           |2024     |Reliability Engineering & System Safety                      |
 18 |Empowering digital twins with large language models for global temporal feature learning |利用大语言模型为数字孪生赋能，以实现全球时序特征学习         |2024     |Journal of Manufacturing Systems                             |
@@ -123,7 +123,7 @@
 103|Leveraging large language models for Human-Machine collaborative troubleshooting of complex industrial equipment faults|利用大型语言模型进行人机协作的复杂工业设备故障排查|2025|Advanced Engineering Informatics|
 104|Leveraging large language models in next generation intelligent manufacturing: Retrospect and prospect|在下一代智能制造中利用大型语言模型：回顾与展望|2025|Journal of Manufacturing Systems|
 105|LLM-MANUF: An integrated framework of Fine-Tuning large language models for intelligent Decision-Making in manufacturing|LLM-MANUF：一个集成框架，用于微调大型语言模型以实现制造中的智能决策|2025|Advanced Engineering Informatics|
-046|LLM-Powered AI Agent Systems and Their Applications in Industry|LLM驱动的AI代理系统及其在工业中的应用|2025|2025 IEEE World AI IoT Congress (AIIoT)|
+106|LLM-Powered AI Agent Systems and Their Applications in Industry|LLM驱动的AI代理系统及其在工业中的应用|2025|2025 IEEE World AI IoT Congress (AIIoT)|
 107|Motor Fault Diagnosis and Predictive Maintenance Based on a Fine-Tuned Qwen2.5-7B Model|基于精细调整的Qwen2.5-7B模型的电机故障诊断与预测性维护|2025|Processes|
 108|PHM-Bench: A Domain-Specific Benchmarking Framework for Systematic Evaluation of Large Models in Prognostics and Health Management|PHM-Bench：一种用于系统评估大型模型的领域特定基准测试框架，应用于故障预测与健康管理|2025|ArXiV|
 109|Probing a novel machine tool fault reasoning and maintenance service recommendation approach through data-knowledge empowered LLMs integrated with AR-assisted maintenance guidance|通过数据知识赋能的LLMs与AR辅助维护指导相结合，探索一种新颖的机床故障推理和维护服务推荐方法|2025|Advanced Engineering Informatics|
@@ -141,236 +141,19 @@
 121|Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs|通过集成大型语言模型和领域知识图谱对CNC进行智能故障诊断|2025|Engineering|
 122|A unified rotating machinery health management framework leveraging large language models for diverse components, conditions, and tasks|一个统一的旋转机械健康管理框架，利用大型语言模型处理多样化的组件、条件和任务|2025|Engineering Applications of Artificial Intelligence|[code](https://github.com/SIA-IDE/RotLLM)
 123|Syn-Diag: An LLM-based Synergistic Framework for Generalizable Few-shot Fault Diagnosis on the Edge|Syn-Diag：一种基于LLM的边缘可泛化少样本故障诊断的协同框架|2025|ArXiV|
-
-
-
-
-------
-## AI解读
-
-**Kimi大模型：**
-
-> ### 研究现状
-> 1. **研究热度持续上升**：从2023年到2025年，相关论文数量不断增加，表明大型语言模型在预测性维护与健康管理领域的应用研究热度在持续上升，越来越多的研究者开始关注这一方向。
->2. **多学科交叉融合**：论文发表在多个不同领域的期刊和会议上，如ArXiv、IEEE Transactions系列、Reliability Engineering & System Safety、Expert Systems with Applications等，这些期刊涵盖了计算机科学、机械工程、电气工程、控制科学等多个学科领域，体现了该领域多学科交叉融合的特点。
-> 3. **研究重点集中在特定方法和技术**：
->     - **模型微调和优化**：许多论文关注如何通过Adapter Learning和Prompt Learning等方法对大型语言模型进行微调，以更好地适应PHM领域的特定任务和数据特点。
->     - **多模态融合**：研究者们尝试将不同类型的数据（如文本、图像、时间序列等）结合起来，利用多模态语料库来提高故障诊断和健康管理的准确性。
->     - **知识图谱与大模型结合**：将知识图谱与大型语言模型相结合，以利用领域知识增强模型的推理和诊断能力，成为研究热点之一。
->     - **幻觉问题解决**：针对大型语言模型的幻觉问题，研究者们探索如何将LLMs整合到一个系统中，通过与其他算法或机制的结合来减少幻觉现象，提高模型输出的可靠性。
-> 4. **应用领域广泛**：应用对象涵盖了电机、轴承、旋转机械、暖通空调系统、增材制造设备、航空装配系统、工业物联网等广泛的工业设备和系统，表明大型语言模型在PHM领域的应用具有广泛的适用性和潜力。
-> 5. **存在一些关键挑战**：尽管取得了一定的进展，但仍然存在一些关键挑战，如数据质量和数据扩充问题、模型的可解释性、幻觉问题、以及在不同领域和场景中的适配性等，这些问题有待进一步研究解决。
-> 
->### 未来研究进展
-> 1. **方法创新和优化**：
->     - **持续改进微调方法**：不断探索更有效的Adapter Learning和Prompt Learning等微调方法，以进一步提高大型语言模型在PHM任务中的性能。
->     - **多模态融合的深化**：加强对多模态数据融合的研究，开发更先进的技术来处理和整合不同类型的数据，充分挖掘多模态信息的潜力。
->    - **知识图谱与大模型的深度融合**：进一步深化知识图谱与大型语言模型的结合，探索如何更有效地利用领域知识来增强模型的推理和决策能力。
->     - **幻觉问题的解决**：持续探索解决幻觉问题的新方法和新机制，提高模型输出的准确性和可靠性，使其更适用于实际的PHM应用场景。
-> 2. **拓展应用领域和场景**：
->     - **探索新的工业领域**：将大型语言模型应用于更多不同类型的工业设备和系统，如新型智能制造业中的先进设备、能源领域的复杂系统等，不断拓展其应用范围。
->     - **针对特定场景的定制化**：根据不同的工业场景和需求，开发定制化的大型语言模型解决方案，以满足特定领域的PHM要求。
-> 3. **加强跨学科合作**：由于该领域的跨学科特点，未来需要进一步加强计算机科学、机械工程、电气工程、控制科学等不同学科领域的研究者之间的合作，共同攻克大型语言模型在PHM领域的关键问题，推动相关技术的发展。
->4. **提升模型的可解释性**：随着大型语言模型在PHM领域的应用越来越广泛，模型的可解释性将变得越来越重要。未来研究将致力于开发新的方法和技术，提高模型的可解释性，使工业领域的工程师和技术人员能够更好地理解和信任模型的输出。
-> 5. **构建更高质量的数据集**：数据是大型语言模型的基础，未来需要构建更高质量、更大规模的PHM数据集和语料库，以支持模型的训练和优化。同时，研究如何对数据进行有效的筛选、扩充和预处理，以提高数据的质量和可用性。
->6. **开发标准化的评估指标和方法**：目前对于大型语言模型在PHM领域的性能评估还缺乏统一的标准和指标。未来需要开发标准化的评估指标和方法，以便更客观地比较和评价不同模型和方法的性能，为实际应用提供更可靠的参考依据。
-> 7. **推动实际应用和产业化**：随着研究的不断深入和技术的逐渐成熟，未来将更加注重大型语言模型在PHM领域的实际应用和产业化发展。这包括与工业企业的合作，将研究成果转化为实际的PHM产品和解决方案，推动相关技术在工业界的广泛应用。
+124|Large language models for PHM: a review of optimization techniques and applications|用于PHM的大型语言模型：优化技术及应用综述|2025|Autonomous Intelligent Systems|
+ 125  | Graph Structure-Enhanced Large Language Model for Optical Network Fault Diagnosis: An Explainable Alarm Root Cause Localization Approach | 图结构增强的大型语言模型用于光网络故障诊断：一种可解释的告警根本原因定位方法 | 2025     | IEEE Internet of Things Journal                              |                                                              
+ 126  | Industrial Large-Scale Diagnostic Model With Lightweight Customized Deployment for Distributed Multiple Non-IID Diagnostic Tasks | 工业大规模诊断模型具有轻量级定制部署，用于分布式多个非独立同分布诊断任务 | 2025     | IEEE Sensors Journal                                         | [code](https://github.com/JMu-Jia/ILDM)                      
+ 127  | Adjust to reality: LLM-driven test-time semantic adjustment for zero-shot fault diagnosis | 适应现实：LLM驱动的零触发故障诊断测试时间语义调整            | 2025     | Control Engineering Practice                                 |                                                              
+ 128  | AeroGPT: Leveraging Large-Scale Audio Model for Aero-Engine Bearing Fault Diagnosis | AeroGPT：利用大规模音频模型进行航空发动机轴承故障诊断        | 2025     | ArXiV                                                        |                                                              
+ 129  | Semi-Supervised Prefix Tuning of Large Language Models for Industrial Fault Diagnosis with Big Data | 利用大数据对大语言模型进行半监督前缀调优以用于工业故障诊断   | 2025     | Big Data Mining and Analytics                                |
+ 130  | A new large model with multi-scale feature fusion for fault diagnosis based on unified time series model | 一种基于统一时间序列模型的多尺度特征融合故障诊断新大型模型   | 2025     | Applied Soft Computing                                       |
+ 131  | Large model for fault diagnosis of industrial equipment based on a knowledge graph construction | 基于知识图谱构建的工业设备故障诊断大型模型                   | 2025     | Applied Soft Computing                                       |
+ 132  |                                                              |                                                              |          |                                                              |
 
 ------
 
-**Deepseek大模型：**
-
-> #### 1. **期刊偏好与发表平台**  
-> - **核心期刊/会议**：  
->   - **IEEE Transactions系列**（如 *IEEE Transactions on Industrial Informatics*, *IEEE Transactions on Cybernetics* 等）是发表大模型在PHM领域应用的核心平台，尤其关注工业场景的技术融合与系统集成。  
->   - **ArXiv** 作为预印本平台，收录了大量早期探索性研究（如微调方法、框架设计），反映该领域技术迭代迅速。  
->   - **Reliability Engineering & System Safety** 和 **Expert Systems with Applications** 侧重于PHM的实际应用与可靠性评估，偏好结合领域知识和大模型方法的实证研究。  
->   - **机械工程领域期刊**（如 *机械工程学报*）聚焦于设备级诊断与通用基础模型设计。  
->
-> - **新兴趋势**：  
->   - 2025年的论文更多发表在 **应用能源类期刊**（如 *Applied Energy*）和 **智能制造类期刊**（如 *Journal of Intelligent Manufacturing*），表明研究逐渐向实际工业场景落地。  
->
-> ---
->
-> #### 2. **研究角度与切入点**  
-> - **技术方法**：  
->   - **微调策略**（Adapter/Prompt Learning）是主流，旨在提升预训练模型对PHM领域数据的适应性。  
->   - **多模态融合**（文本、时间序列、图像）是重要方向，需解决异构数据对齐与联合表征问题。  
->   - **知识增强**（结合知识图谱、领域规则）被广泛用于提升模型的可解释性和可靠性。  
->   - **RAG技术**（检索增强生成）用于缓解幻觉问题，尤其在故障诊断的复杂推理场景中。  
->
-> - **应用场景**：  
->   - **复杂系统诊断**（如航空装配、增材制造）要求模型具备跨设备迁移能力。  
->   - **剩余寿命预测**（RUL）是核心任务，需结合时序信号处理与大模型的时序建模能力。  
->   - **小样本与零样本学习**（如自主水下航行器螺旋桨）依赖迁移学习与提示工程。  
->
-> ---
->
-> #### 3. **应用对象与行业覆盖**  
-> - **设备类型**：  
->   - **旋转机械**（轴承、电机、涡轮机）是研究重点（占比约30%），因其高故障率与工业重要性。  
->   - **复杂系统**（暖通空调、数控机床、航空装配系统）强调多组件协同诊断。  
->   - **新兴领域**（增材制造、工业物联网、区块链集成）体现技术前沿探索。  
->
-> - **行业分布**：  
->   - **制造业**（40%）：涵盖传统制造（轴承/电机）与智能制造（数字孪生、工业4.0）。  
->   - **能源与建筑**（20%）：如暖通空调系统故障检测、海上风电维护。  
->   - **航空航天**（15%）：对可靠性要求极高，需结合因果推理与安全监控。  
->
-> ---
->
-> #### 4. **研究趋势与挑战**  
-> - **趋势**：  
->   - **从方法探索到系统集成**：早期研究（2023-2024）聚焦微调与多模态方法，2025年更多关注端到端框架（如LLM-TSFD、BearLLM）。  
->   - **跨学科深化**：与知识图谱、贝叶斯网络、区块链等技术结合，形成复合解决方案。  
->   - **轻量化与可迁移**：研究转向小模型与大模型的协同（如模型工厂、层次化代理）。  
->
-> - **挑战**：  
->   - **数据质量与标注成本**：高质量PHM数据集稀缺，需依赖半监督与自监督学习。  
->   - **模型可靠性**：幻觉问题在安全关键场景（如航空）尤为突出，需结合规则引擎与人类反馈。  
->   - **工业适配性**：实时性、算力限制与边缘部署需求推动模型压缩与硬件协同设计。  
->
-> ---
->
-> #### 5. **潜在价值与未来方向**  
-> - **工业价值**：  
->   - 减少停机损失（预估提升设备可用性10-20%），降低维护成本（通过预测性策略替代定期检修）。  
->   - 支持个性化维护（如基于用户日志的故障咨询）与全球化运维（跨区域/机型迁移）。  
->
-> - **学术方向**：  
->   - **通用基础模型**：构建覆盖多设备类型的PHM大模型（如UniFault、GLM-4）。  
->   - **因果推理**：探索故障根因分析与决策链生成（如CausalKGPT）。  
->   - **人机协作**：开发基于LLM的交互式诊断助手（如FaultGPT、PHM Copilots）。  
->
-> ### 研究现状与未来研究进展总结
->
-> ---
->
-> #### **一、研究现状分析**  
-> 通过分析67篇论文的标题、期刊和发表年份（2023-2025），可得出以下结论：  
->
-> ##### 1. **技术方法聚焦方向**  
-> - **主流技术**：  
->   - **微调与适配**：超半数论文（如FD-LLM、BearLLM）关注预训练大模型在PHM任务中的微调策略，包括Adapter Learning（适配器学习）和Prompt Learning（提示学习），以提升领域适应性。  
->   - **多模态融合**：约30%的论文（如DiagLLM、Multimodal LLM）探索文本、时序信号（振动/温度）、图像数据的联合建模，解决工业多源异构数据对齐问题。  
->   - **知识增强**：20%的论文（如CausalKGPT、Joint Knowledge Graph）结合知识图谱或领域规则，增强模型的可解释性和因果推理能力。  
->   - **检索增强生成（RAG）**：LLM-R、FaultGPT等论文利用外部知识库缓解模型幻觉问题，提升诊断建议的可靠性。  
->
-> - **新兴技术**：  
->   - **轻量化部署**：2025年论文（如LLM-TSFD）提出大模型与小模型协同的“模型工厂”架构，适应边缘计算场景。  
->   - **时序建模**：Diff-MTS等研究将扩散模型与LLMs结合，提升工业时序信号（如振动数据）的生成与预测能力。  
->
-> ##### 2. **应用场景与对象**  
-> - **核心任务**：  
->   - **故障诊断**（60%论文）：覆盖旋转机械（轴承、电机）、暖通空调系统、航空装配等场景。  
->   - **剩余寿命预测（RUL）**（20%论文）：如GPT-based RUL Prediction，结合时序信号与大语言模型的长期依赖建模。  
->   - **小样本/零样本诊断**（15%论文）：针对自主水下航行器、增材制造等数据稀缺场景，依赖迁移学习与提示工程。  
->
-> - **行业分布**：  
->   - **制造业**（45%）：传统设备（轴承/电机）与智能制造（数字孪生、工业4.0）并重。  
->   - **航空航天**（18%）：高可靠性需求驱动因果推理与安全监控研究（如SafeLLM）。  
->   - **能源与建筑**（15%）：聚焦暖通空调系统、海上风电维护等场景。  
->
-> ##### 3. **期刊发表偏好**  
-> - **高影响力平台**：  
->   - **IEEE Transactions系列**（占比25%）：如*IEEE Transactions on Industrial Informatics*、*IEEE Transactions on Cybernetics*，偏好工业场景的技术融合（如数字孪生、区块链）。  
->   - **ArXiv**（占比30%）：收录早期探索性研究（微调框架、多模态方法），反映技术快速迭代特性。  
->   - **应用类期刊**（占比20%）：如*Reliability Engineering & System Safety*、*Expert Systems with Applications*，侧重实证研究与可靠性验证。  
->   - **机械工程期刊**（如《机械工程学报》）：聚焦设备级通用基础模型（如UniFault）。  
->
-> ---
->
-> #### **二、未来研究进展与趋势**  
-> ##### 1. **技术深化方向**  
-> - **模型轻量化与边缘部署**：需解决工业场景的实时性与算力限制，推动模型压缩（如蒸馏技术）与硬件协同设计。  
-> - **因果推理与根因分析**：结合因果发现算法（如CausalKGPT），从相关性诊断转向因果链生成。  
-> - **动态持续学习**：适应设备老化、工况变化等动态环境，开发增量学习与在线微调框架。  
->
-> ##### 2. **场景扩展方向**  
-> - **跨领域迁移能力**：构建通用PHM基础模型（如GLM-4），支持不同设备类型（旋转机械→数控机床）和行业（制造→医疗）的迁移。  
-> - **人机协作交互**：开发基于LLM的交互式诊断助手（如FaultGPT），结合人类专家反馈优化决策链。  
-> - **安全关键场景**：如核电站、航天器，需融合形式化验证与安全约束，确保模型输出绝对可靠。  
->
-> ##### 3. **数据与评估挑战**  
-> - **低成本数据构建**：依赖自监督学习与合成数据（如Diff-MTS生成的时序信号），减少标注依赖。  
-> - **标准化评估体系**：当前研究缺乏统一指标（如诊断准确性、实时性、可解释性评分），需建立跨场景Benchmark。  
->
-> ##### 4. **跨学科融合趋势**  
-> - **与新兴技术结合**：  
->   - **数字孪生**：利用LLMs生成虚拟设备的动态行为模拟（如Empowering Digital Twins）。  
->   - **区块链**：确保诊断记录的可追溯性与防篡改（如Blockchain-Enabled LLMs）。  
->   - **工业5.0**：探索人本协作（如人机协同拆卸规划）与可持续发展目标（如能耗优化）。  
->
-> ---
->
-> ### **总结**  
-> - **现状**：当前研究以“微调+多模态+知识增强”为核心，聚焦高价值工业设备（轴承、航空系统）的故障诊断与寿命预测，IEEE Transactions系列和ArXiv为主要发表平台。  
-> - **未来**：技术将向轻量化、因果推理、动态学习演进，场景扩展至跨领域迁移与安全关键系统，并深度融入数字孪生、区块链等新兴技术。  
-> - **挑战**：数据质量、模型可靠性、评估标准化仍是瓶颈，需学术界与工业界联合攻关。
->
-> ### 总结  
-> 大型语言模型在PHM领域的研究呈现“技术-场景-行业”三重驱动：  
-> 1. **技术驱动**：微调、多模态、知识增强为核心方法，RAG与轻量化是突破点。  
-> 2. **场景驱动**：从单一设备诊断转向复杂系统与跨领域迁移。  
-> 3. **行业驱动**：覆盖高价值工业场景（如航空、能源），追求可靠性与经济性平衡。  
-> 未来需重点关注模型可靠性提升、低成本数据构建与工业级落地验证。
-
-------
-
-**文心一言大模型：**
-
-> ### 研究现状总结
->
-> 1. 时间线发展：
->    - **2023年**：研究起步阶段，主要集中于探索大型语言模型在故障诊断、维护推荐、智能制造系统等基础应用。例如，《How Can Large Language Models Help Humans in Design And Manufacturing》和《Foundational Models for Fault Diagnosis of Electrical Motors》等论文，为后续研究奠定了理论基础。
->    - **2024年**：研究进入快速发展期，研究范围显著扩展，涵盖多模态故障检测、领域自适应维护方案生成、数字孪生赋能、知识图谱与大型语言模型结合等前沿领域。此阶段发表的论文数量大幅增加，表明研究热度持续升温。
->    - **2025年（预测）**：研究将进一步深化，聚焦于语言模型在故障诊断中的潜力挖掘、新一代智能制造中的应用探索，以及跨学科技术的融合创新。尽管目前仅提取到部分2025年的论文信息，但已可预见该领域的研究将持续活跃。
-> 2. 主要期刊与会议：
->    - 论文发表在多个权威期刊和会议上，包括但不限于ArXiv、Electronics、IEEE Transactions系列期刊、Reliability Engineering & System Safety等。这些平台的选择反映了研究领域的多学科交叉特性，以及研究成果的广泛传播和应用价值。
-> 3. 研究热点聚焦：
->    - **大型语言模型的应用探索**：研究如何利用大型语言模型进行故障诊断、维护推荐、智能制造系统优化等。
->    - **多模态故障检测与诊断**：结合视觉、文本等多模态数据，提升故障检测的准确性和效率。
->    - **领域自适应与迁移学习**：研究如何使大型语言模型更好地适应特定领域的知识和任务需求。
->    - **数字孪生与知识图谱的融合**：探索数字孪生技术与大型语言模型的结合，以及知识图谱在故障诊断中的应用。
->
-> ### 未来研究方向展望
->
-> 1. 深化模型应用与优化：
->    - 进一步挖掘大型语言模型在故障检测和维修中的潜力，探索其在更复杂、更精细任务中的应用。
->    - 优化模型的微调方法和训练策略，提高模型在特定领域和任务中的性能表现。
-> 2. 跨学科技术融合：
->    - 加强大型语言模型与其他技术（如数字孪生、知识图谱、强化学习等）的融合创新，推动智能制造和工业4.0的发展。
->    - 探索多模态数据融合的新方法，提升故障检测和诊断的全面性和准确性。
-> 3. 领域自适应与泛化能力：
->    - 研究如何提高大型语言模型在跨领域、跨任务中的自适应能力和泛化性能。
->    - 探索迁移学习、领域自适应等技术在大型语言模型中的应用，降低模型在不同场景下的部署成本。
-> 4. 可解释性与安全性研究：
->    - 加强大型语言模型在故障检测和诊断中的可解释性研究，提高模型的透明度和可信度。
->    - 研究模型的安全性和鲁棒性，确保模型在复杂工业环境中的稳定运行和可靠应用。
->
-> 综上所述，大型语言模型在故障检测和维修领域的研究正呈现出蓬勃发展的态势。未来，随着技术的不断进步和应用场景的不断拓展，该领域的研究将更加深入和广泛，为智能制造和工业4.0的发展提供有力支持。
-
-------
-
-## 创新点角度
-
-1. **微调大模型的方法。（Adapter Learning和Prompt Learning）**
-2. **如何将数据输入到大模型中，结合NLP技术；主要利用大模型本身可以持续学习，强化学习的特点。（提示模板，数据混合等）**
-3. **LLMs整合到一个系统，解决其幻觉问题。**
-4. **馈入大模型的数据集，筛选扩充有意义的数据，构建语料库。**
-5. **多模态语料库。**
-6. **大模型作为assistant/agent。（辅助之前算法的诊断）**
-7. **Retrieval-Augmented Generation**
-8. **向量数据转变为标量数据**
-
-------
-
-
-
-
-
-其他Github项目推荐：
+## 其他Github项目推荐：
 
 - LLM-based-PHM: https://github.com/CHAOZHAO-1/LLM-based-PHM     [Zhaochao](https://github.com/CHAOZHAO-1) 
-
 - Awesome-TimeSeries-SpatioTemporal-LM-LLM: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
