@@ -1,6 +1,6 @@
 # Awesome large language model for Prognostics and health management
 
-![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251012-pink)
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251104-pink)
 
 > 用于预测性维护与健康管理的大型语言模型
 
@@ -150,12 +150,12 @@
  130  | A new large model with multi-scale feature fusion for fault diagnosis based on unified time series model | 一种基于统一时间序列模型的多尺度特征融合故障诊断新大型模型   | 2025     | Applied Soft Computing                                       |
  131  | Large model for fault diagnosis of industrial equipment based on a knowledge graph construction | 基于知识图谱构建的工业设备故障诊断大型模型                   | 2025     | Applied Soft Computing                                       |
  132  | CMLLM: A novel cross-modal large language model for wind power forecasting | CMLLM：一种用于风力发电预测的新型跨模态大型语言模型          | 2025 | Energy Conversion and Management |
- 133 | Integrating large language models into manufacturing execution systems: A systematic framework for photoresist manufacturing processes | 将大型语言模型集成到制造执行系统中：一种用于光刻胶制造过程的系统框架 | 2026 |Computers & Industrial Engineering|
- 134 | A MoE-LLM-based multisensor flexible fusion fault diagnosis method for rotating machinery | 一种基于MoE-LLM的多传感器柔性融合故障诊断方法用于旋转机械 | 2026 |Advanced Engineering Informatics|
- 135 | Deep digital twin-powered large vision-language model for multi-scenario industrial fault diagnosis | 深度数字孪生驱动的大型视觉语言模型，用于多场景工业故障诊断 | 2026 |Advanced Engineering Informatics|
- 136 | | | ||
- 137 |                                                              |                                                              |          |                                                              |                                                              
- 138  |                                                              |                                                              |          |                                                              |                                                              
+ 133 | FD-MVLLM: Fault diagnosis based on multimodal vibration data and large language model for bearing system | FD-MVLLM：基于多模态振动数据和大型语言模型的轴承系统故障诊断 | 2025     | Mechanical Systems and Signal Processing                     |                                                              
+ 134  | Virtual sample diffusion generation method guided by large language model-generated knowledge for enhancing information completeness and zero-shot fault diagnosis in building thermal systems | 虚拟样本扩散生成方法指导由大型语言模型生成的知识以增强建筑热系统信息完整性和零样本故障诊断 | 2025     | Journal of Zhejiang University-SCIENCE A                     |                                                              
+ 135  | Integrating large language models into manufacturing execution systems: A systematic framework for photoresist manufacturing processes | 将大型语言模型集成到制造执行系统中：一种用于光刻胶制造过程的系统框架 | 2026     | Computers & Industrial Engineering                           |
+ 136 | A MoE-LLM-based multisensor flexible fusion fault diagnosis method for rotating machinery | 一种基于MoE-LLM的多传感器柔性融合故障诊断方法用于旋转机械 | 2026 |Advanced Engineering Informatics|
+ 137 | Deep digital twin-powered large vision-language model for multi-scenario industrial fault diagnosis | 深度数字孪生驱动的大型视觉语言模型，用于多场景工业故障诊断 | 2026 | Advanced Engineering Informatics |
+ 138  |                                                              |                                                              |          |                                                              |
  139  |                                                              |                                                              |          |                                                              |
  140 | | | ||
  141 | | | ||
