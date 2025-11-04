@@ -1,4 +1,4 @@
-# Large language model for Prognostics and health management
+# Awesome large language model for Prognostics and health management
 
 ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251012-pink)
 
