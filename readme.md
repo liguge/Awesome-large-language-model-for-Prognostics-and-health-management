@@ -1,4 +1,4 @@
-# Awesome large language model for Prognostics and Health Management
+# Large language model for Prognostics and health management
 
 ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251012-pink)
 
@@ -142,20 +142,39 @@
 122|A unified rotating machinery health management framework leveraging large language models for diverse components, conditions, and tasks|一个统一的旋转机械健康管理框架，利用大型语言模型处理多样化的组件、条件和任务|2025|Engineering Applications of Artificial Intelligence|[code](https://github.com/SIA-IDE/RotLLM)
 123|Syn-Diag: An LLM-based Synergistic Framework for Generalizable Few-shot Fault Diagnosis on the Edge|Syn-Diag：一种基于LLM的边缘可泛化少样本故障诊断的协同框架|2025|ArXiV|
 124|Large language models for PHM: a review of optimization techniques and applications|用于PHM的大型语言模型：优化技术及应用综述|2025|Autonomous Intelligent Systems|
- 125  | Graph Structure-Enhanced Large Language Model for Optical Network Fault Diagnosis: An Explainable Alarm Root Cause Localization Approach | 图结构增强的大型语言模型用于光网络故障诊断：一种可解释的告警根本原因定位方法 | 2025     | IEEE Internet of Things Journal                              |                                                              
+ 125  | Graph Structure-Enhanced Large Language Model for Optical Network Fault Diagnosis: An Explainable Alarm Root Cause Localization Approach | 图结构增强的大型语言模型用于光网络故障诊断：一种可解释的告警根本原因定位方法 | 2025     | IEEE Internet of Things Journal                              |
  126  | Industrial Large-Scale Diagnostic Model With Lightweight Customized Deployment for Distributed Multiple Non-IID Diagnostic Tasks | 工业大规模诊断模型具有轻量级定制部署，用于分布式多个非独立同分布诊断任务 | 2025     | IEEE Sensors Journal                                         | [code](https://github.com/JMu-Jia/ILDM)                      
- 127  | Adjust to reality: LLM-driven test-time semantic adjustment for zero-shot fault diagnosis | 适应现实：LLM驱动的零触发故障诊断测试时间语义调整            | 2025     | Control Engineering Practice                                 |                                                              
- 128  | AeroGPT: Leveraging Large-Scale Audio Model for Aero-Engine Bearing Fault Diagnosis | AeroGPT：利用大规模音频模型进行航空发动机轴承故障诊断        | 2025     | ArXiV                                                        |                                                              
+ 127  | Adjust to reality: LLM-driven test-time semantic adjustment for zero-shot fault diagnosis | 适应现实：LLM驱动的零触发故障诊断测试时间语义调整            | 2025     | Control Engineering Practice                                 |
+ 128  | AeroGPT: Leveraging Large-Scale Audio Model for Aero-Engine Bearing Fault Diagnosis | AeroGPT：利用大规模音频模型进行航空发动机轴承故障诊断        | 2025     | ArXiV                                                        |
  129  | Semi-Supervised Prefix Tuning of Large Language Models for Industrial Fault Diagnosis with Big Data | 利用大数据对大语言模型进行半监督前缀调优以用于工业故障诊断   | 2025     | Big Data Mining and Analytics                                |
  130  | A new large model with multi-scale feature fusion for fault diagnosis based on unified time series model | 一种基于统一时间序列模型的多尺度特征融合故障诊断新大型模型   | 2025     | Applied Soft Computing                                       |
  131  | Large model for fault diagnosis of industrial equipment based on a knowledge graph construction | 基于知识图谱构建的工业设备故障诊断大型模型                   | 2025     | Applied Soft Computing                                       |
- 132  |                                                              |                                                              |          |                                                              |
+ 132  | CMLLM: A novel cross-modal large language model for wind power forecasting | CMLLM：一种用于风力发电预测的新型跨模态大型语言模型          | 2025 | Energy Conversion and Management |
+ 133 | Integrating large language models into manufacturing execution systems: A systematic framework for photoresist manufacturing processes | 将大型语言模型集成到制造执行系统中：一种用于光刻胶制造过程的系统框架 | 2026 |Computers & Industrial Engineering|
+ 134 | A MoE-LLM-based multisensor flexible fusion fault diagnosis method for rotating machinery | 一种基于MoE-LLM的多传感器柔性融合故障诊断方法用于旋转机械 | 2026 |Advanced Engineering Informatics|
+ 135 | Deep digital twin-powered large vision-language model for multi-scenario industrial fault diagnosis | 深度数字孪生驱动的大型视觉语言模型，用于多场景工业故障诊断 | 2026 |Advanced Engineering Informatics|
+ 136 | | | ||
+ 137 |                                                              |                                                              |          |                                                              |                                                              
+ 138  |                                                              |                                                              |          |                                                              |                                                              
+ 139  |                                                              |                                                              |          |                                                              |
+ 140 | | | ||
+ 141 | | | ||
+ 142 | | | ||
+ 143 | | | ||
+ 144 | | | ||
+ 145 | | | ||
+ 146 | | | ||
+ 147 | | | ||
+ 148 | | | ||
+ 149 | | | ||
+ 150 | | | ||
+ 151 | | | ||
+ 152 | | | ||
+ 153 | | | ||
 
 ------
 
 ## 其他Github项目推荐：
 
 - LLM-based-PHM: https://github.com/CHAOZHAO-1/LLM-based-PHM     [Zhaochao](https://github.com/CHAOZHAO-1) 
-
 - Awesome-TimeSeries-SpatioTemporal-LM-LLM: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
-
