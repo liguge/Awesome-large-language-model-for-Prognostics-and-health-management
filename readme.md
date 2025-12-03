@@ -10,7 +10,7 @@
 
 ## Attention
 
-现在大模型的文章越来越多了，当超过一定的数量的时候，初步暂定更新计划就变为只更新中科院一区的文章；然后再变多的时候就只更新公布源代码的文章。
+With the increasing proliferation of academic literature related to Large Language Models (LLMs), a dynamic update strategy is tentatively formulated. When the volume of literature exceeds a certain threshold, the update scope will be narrowed down to articles published in journals categorized as JCR Q1 by the Chinese Academy of Sciences (CAS). As the literature volume continues to grow, the update scope will be further restricted, covering only those research works with publicly available source codes.
 
 
 
@@ -192,5 +192,4 @@
 ## 其他Github项目推荐：
 
 - LLM-based-PHM: https://github.com/CHAOZHAO-1/LLM-based-PHM     [Zhaochao](https://github.com/CHAOZHAO-1) 
-
 - Awesome-TimeSeries-SpatioTemporal-LM-LLM: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
