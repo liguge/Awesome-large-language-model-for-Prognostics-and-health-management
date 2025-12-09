@@ -184,5 +184,5 @@ With the increasing proliferation of academic literature related to Large Langua
 
 
 ## Contact：
-Chao He
-chaohe#bjtu.edu.cn (please replace # by @)
+- Chao He
+- chaohe#bjtu.edu.cn (please replace # by @)
