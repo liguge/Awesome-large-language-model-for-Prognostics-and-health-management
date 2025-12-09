@@ -181,3 +181,8 @@ With the increasing proliferation of academic literature related to Large Langua
 
 - LLM-based-PHM: https://github.com/CHAOZHAO-1/LLM-based-PHM     [Zhaochao](https://github.com/CHAOZHAO-1) 
 - Awesome-TimeSeries-SpatioTemporal-LM-LLM: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
+
+
+## Contact：
+Chao He
+chaohe#bjtu.edu.cn (please replace # by @)
