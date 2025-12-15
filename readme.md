@@ -183,6 +183,20 @@ With the increasing proliferation of academic literature related to Large Langua
 - Awesome-TimeSeries-SpatioTemporal-LM-LLM: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
 
 
+## Citation
+
+```bibtex
+@misc{llmforphm,
+  author = {Chao, He},
+  month = {12},
+  title = {Awesome large language model for Prognostics and health management,
+  url = {https://github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management},
+  year = {2025}
+}
+```
+
+
 ## Contact：
 - Chao He
+
 - chaohe#bjtu.edu.cn (please replace # by @)
