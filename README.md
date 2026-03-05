@@ -220,7 +220,7 @@
 | **[IEEE Transactions on Energy Conversion](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=60)** | **5.4** | **2** |  | | **电机工程学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mwPnr)** |
 | **[International Journal of System Assurance Engineering and Management](https://link.springer.com/journal/13198)** | **1.4** | **4** |  | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r7BVmD)** |
 | **[Annals of Operations Research](https://link.springer.com/journal/10479)** | **4.5** | **4** | **3** | | **优选法统筹法与经济数学研究会；管理科学与工程学会系统工程学会(B)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=W5OKE5)** |
-| **[Electrical Engineering](Electrical Engineering)** | **1.9** | **4** |  | | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rz0eE5)** |
+| **[Electrical Engineering](https://link.springer.com/journal/202)** | **1.9** | **4** |  | | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rz0eE5)** |
 | **[Science China Information Sciences](https://link.springer.com/journal/11432)** | **7.6** | **1** |  | | **自动化学会(A);通信学会(T1);仿真学会(T1);电子学会(T1);声学学会** | **NO** | [ablesci](https://www.ablesci.com/journal/detail?id=52ayXp) |
 |  | | | | | | | |
 |  | | | | | | | |
