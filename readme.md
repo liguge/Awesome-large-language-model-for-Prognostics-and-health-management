@@ -233,6 +233,10 @@ With the increasing proliferation of academic literature related to Large Langua
 209|PHM-Vibench A Unified and Factory-Style Vibration Benchmarking Framework for the Foundation Model Era|PHM-Vibench：一个适用于基础模型时代的、统一的、符合工厂标准的振动测试框架|2026|PHM Society Asia-Pacific Conference|
 210|Unsupervised Textless Prompt With LLMs for Multivariate Time Series Anomaly Detection|利用大语言模型进行无监督、无需文本提示的多变量时间序列异常检测|2026|IEEE Transactions on Computational Social Systems|
 211|Spectrum Analysis and Perception Multimodal LLM for Robust Fault Diagnosis under Data Scarcity|在数据匮乏的情况下，利用频谱分析与感知多模态大语言模型实现可靠的故障诊断|2026|Measurement Science and Technology|
+212|Fault decoupling in hydraulic systems: A large language model-assisted dual-stream multi-task learning approach|液压系统中的故障解耦：一种基于大型语言模型的双流多任务学习方法|2026|Neurocomputing|
+213|Knowledge graph enhanced large language model framework for causal chain reasoning in industrial fault diagnosis|知识图谱增强的大型语言模型框架在工业故障诊断因果链推理中的应用|2026|Expert Systems with Applications|
+214|Industrial knowledge-enhanced fault diagnosis method: Integrating LLM and knowledge graph for fault reasoning and maintenance recommendation in CNC machine tools|基于行业知识的故障诊断方法：结合大型语言模型与知识图谱，实现数控机床的故障推理与维护建议的自动化处理|2026|Computers & Industrial Engineering|
+215|||||
 
 
 
