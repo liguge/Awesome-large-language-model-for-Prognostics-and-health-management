@@ -232,6 +232,7 @@ With the increasing proliferation of academic literature related to Large Langua
 208|MCMAS Causality-driven collaborative optimization in low-carbon industrial parks with large language models-empowered multi-agent systems|MCMAS：利用大型语言模型驱动的多智能体系统，实现低碳工业园区中的因果关系导向型协同优化|2026|Journal of Manufacturing Systems|
 209|PHM-Vibench A Unified and Factory-Style Vibration Benchmarking Framework for the Foundation Model Era|PHM-Vibench：一个适用于基础模型时代的、统一的、符合工厂标准的振动测试框架|2026|PHM Society Asia-Pacific Conference|
 210|Unsupervised Textless Prompt With LLMs for Multivariate Time Series Anomaly Detection|利用大语言模型进行无监督、无需文本提示的多变量时间序列异常检测|2026|IEEE Transactions on Computational Social Systems|
+211|Spectrum Analysis and Perception Multimodal LLM for Robust Fault Diagnosis under Data Scarcity|在数据匮乏的情况下，利用频谱分析与感知多模态大语言模型实现可靠的故障诊断|2026|Measurement Science and Technology|
 
 
 
