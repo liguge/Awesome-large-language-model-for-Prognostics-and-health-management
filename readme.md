@@ -279,3 +279,5 @@ With the increasing proliferation of academic literature related to Large Langua
 ## Contact：
 - Chao He
 - chaohe#bjtu.edu.cn (please replace # by @)
+
+[![Hits](https://hits.sh/github.com/github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management.svg?label=Views&color=0891b2)](https://hits.sh/github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management/)
