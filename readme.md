@@ -231,7 +231,40 @@ With the increasing proliferation of academic literature related to Large Langua
 207|Fault decoupling in hydraulic systems: A large language model-assisted dual-stream multi-task learning approach|液压系统中的故障解耦：一种基于大型语言模型的双流多任务学习方法|2026|Neurocomputing|
 208|Knowledge graph enhanced large language model framework for causal chain reasoning in industrial fault diagnosis|知识图谱增强的大型语言模型框架在工业故障诊断因果链推理中的应用|2026|Expert Systems with Applications|
 209|Industrial knowledge-enhanced fault diagnosis method: Integrating LLM and knowledge graph for fault reasoning and maintenance recommendation in CNC machine tools|基于行业知识的故障诊断方法：结合大型语言模型与知识图谱，实现数控机床的故障推理与维护建议的自动化处理|2026|Computers & Industrial Engineering|
-210|||||
+210|A collaborative approach based on large language model and knowledge graphs for information integration towards smart manufacturing|基于大语言模型和知识图谱的协同方法实现智能制造信息集成|2026|Engineering Applications of Artificial Intelligence|
+211|An LLM-Based Framework for State of Health Estimation of Lithium-Ion Batteries|基于LLM的锂离子电池健康状态估算框架|2026|Chinese Journal of Mechanical Engineering|
+212|AnomalyPainter: Vision-Language-Diffusion Synergy for Realistic and Diverse Unseen Industrial Anomaly Synthesis|异常绘制者：视觉-语言-扩散协同实现真实多样的未知工业异常合成|2026|Proceedings of the AAAI Conference on Artificial Intelligence|
+213|Can Large Language Models Diagnose Machine Faults? A Comprehensive Survey from Deep Learning to Foundation Models|大型语言模型能否诊断机器故障？从深度学习到基础模型的全面调查|2026| ArXiv                                                        |
+214|CoFAE-LLM framework: LLM-based diagnosis framework for multi-view evidential reasoning on rolling bearing vibration signals|CoFAE-LLM框架：基于LLM的滚动轴承振动信号多视角证据推理诊断框架|2026|Measurement Science and Technology|
+215|DML–LLM Hybrid Architecture for Fault Detection and Diagnosis in Sensor-Rich Industrial Systems|面向传感器密集型工业系统的故障检测与诊断的DML-LLM混合架构|2026|Sensors|
+216|Dynamic-static knowledge graph enhanced LLM reasoning for intelligent process planning in steel manufacturing|钢铁制造智能工艺规划中动态-静态知识图谱增强的大语言模型推理|2026|Journal of Manufacturing Systems|
+217|Fault decoupling in hydraulic systems: A large language model-assisted dual-stream multi-task learning approach|液压系统中的故障解耦：一种大型语言模型辅助的双流多任务学习方法|2026|Neurocomputing|
+218|Human-in-the-loop and large language models in smart manufacturing: Current applications, challenges, and perspectives|智能制造中的人机协作与大语言模型：当前应用、挑战与前景|2026|Journal of Manufacturing Systems|
+219|Industrial knowledge-enhanced fault diagnosis method: Integrating LLM and knowledge graph for fault reasoning and maintenance recommendation in CNC machine tools|工业知识增强的故障诊断方法：集成LLM与知识图谱实现数控机床故障推理与维护建议|2026|Computers &amp; Industrial Engineering|
+220|Knowledge graph enhanced large language model framework for causal chain reasoning in industrial fault diagnosis|工业故障诊断中因果链推理的知识图谱增强型大语言模型框架|2026|Expert Systems with Applications|
+221|Large Models for Machinery Fault Diagnosis: Current Advances and Future Directions|机械故障诊断的大模型：当前进展与未来方向|2026|Chinese Journal of Mechanical Engineering|
+222|Mutual Information Optimization Using Large Language Model for Domain Generalized Remaining Useful Life Prediction in IIoT|基于大语言模型的互信息优化用于工业物联网领域泛化剩余使用寿命预测|2026|IEEE Internet of Things Journal|
+223|Spectrum analysis and perception multimodal LLM for robust fault diagnosis under data scarcity|面向数据稀缺场景下稳健故障诊断的频谱分析与感知多模态大语言模型|2026|Measurement Science and Technology|
+224|TF-ProFM: Prototype-Based Time–Frequency Foundation Model for Generalizable Industrial Bearing Fault Diagnosis|TF-ProFM：基于原型的时间-频率基础模型，用于可泛化的工业轴承故障诊断|2026|IEEE Transactions on Industrial Informatics|
+225|Towards generalizable fault diagnosis via LLM-driven hierarchical cross-modal alignment|TF-ProFM：基于原型的时间-频率基础模型，用于可泛化的工业轴承故障诊断|2026|Knowledge-Based Systems|
+226|VLM-Guided Causal Reasoning Framework for Cross-domain Source-Free Industrial Fault Diagnosis|基于视觉语言模型引导的跨域无源工业故障诊断因果推理框架|2026|Chinese Journal of Mechanical Engineering|
+227|WeldLLM: A Multimodal Framework for Welding Defect Detection and Automated Diagnostic Reasoning|WeldLLM：一种用于焊接缺陷检测与自动化诊断推理的多模态框架|2026|IEEE Transactions on Industrial Informatics|[code](https://github.com/ucassqs/WeldLLM)
+228|XFD-LVLM: An explainable multimodal framework for aviation hydraulic pump intelligent fault diagnosis with large Vision-Language models|XFD-LVLM：基于大型视觉-语言模型的可解释航空液压泵智能故障诊断多模态框架|2026|Advanced Engineering Informatics|
+229|||||
+230|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 
 
 
