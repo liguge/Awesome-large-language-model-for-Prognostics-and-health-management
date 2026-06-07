@@ -1,6 +1,6 @@
 # Awesome large language model for Prognostics and health management
 
-![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260511-pink)
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-202600607-pink)
 
 > 用于预测性维护与健康管理的大型语言模型
 
@@ -250,21 +250,71 @@ With the increasing proliferation of academic literature related to Large Langua
 226|VLM-Guided Causal Reasoning Framework for Cross-domain Source-Free Industrial Fault Diagnosis|基于视觉语言模型引导的跨域无源工业故障诊断因果推理框架|2026|Chinese Journal of Mechanical Engineering|
 227|WeldLLM: A Multimodal Framework for Welding Defect Detection and Automated Diagnostic Reasoning|WeldLLM：一种用于焊接缺陷检测与自动化诊断推理的多模态框架|2026|IEEE Transactions on Industrial Informatics|[code](https://github.com/ucassqs/WeldLLM)
 228|XFD-LVLM: An explainable multimodal framework for aviation hydraulic pump intelligent fault diagnosis with large Vision-Language models|XFD-LVLM：基于大型视觉-语言模型的可解释航空液压泵智能故障诊断多模态框架|2026|Advanced Engineering Informatics|
-229|||||
-230|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+229|A new explainable artificial intelligence algorithm integrated with multi-agent system for joint decision-making of smart manufacturing systems|一种集成多智能体系统的可解释人工智能算法，用于智能制造系统的联合决策|2026|Journal of Manufacturing Systems|
+230|TimeGPT for Mechanical System Degradation Assessment_ A Large Time Series Model Approach|用于机械系统退化评估的TimeGPT：一种大型时间序列模型方法|2026|Chinese Journal of Mechanical Engineering|
+231|An adaptive industrial large language model for mechanical fault diagnosis under variable operating conditions|一种适用于变工况机械故障诊断的自适应工业大型语言模型|2026|Advanced Engineering Informatics|
+232|An instruction fine-tuning and retrieval-augmented generation framework for intelligent defect diagnosis and maintenance decision support in high-speed railway turnouts|高速铁路道岔智能化缺陷诊断与维护决策支持的指令微调和检索增强生成框架|2026|Computer-Aided Civil and Infrastructure Engineering|
+233|BearAgent Multi-Agent Diagnosis Optimization and Uncertainty-aware Decision-Making for Bearing Health Management|BearAgent：用于轴承健康管理的多智能体诊断优化与不确定性感知决策|2026|SSRN|
+234|Reliability-aware dynamic graph fusion and LLM-based diagnostic assistant for bearing faults|基于可靠性的动态图融合与LLM轴承故障诊断助手|2026| Advanced Engineering Informatics                             |
+235|ChatGPT-like large language models for testing and verification of autonomous intelligent systems a systematic review|像ChatGPT这样的大型语言模型在自主智能系统测试与验证中的应用：系统综述|2026|Journal of Reliability Science and Engineering|
+236|Cloud-Edge-Terminal Collaborative AI Agent for Compound Fault Detection and Diagnosis|云边端协同AI代理在复合故障检测与诊断中的应用|2026|Engineering|
+237|FD-DDLLM A large language model enhanced dual-domain transformer for intelligent fault diagnosis|FD-DDLLM：一种增强大型语言模型的双域变换器，用于智能故障诊断|2026|Structural Health Monitoring|
+2387|Large models for battery prognostics and health management A review and future roadmap|大型电池预测与健康管理模型：综述与未来路线图|2026|Renewable and Sustainable Energy Reviews|
+239|LKG-STNet A large language model-assisted knowledge graph-guided spatiotemporal network for aero-engine remaining useful life prediction|LKG-STNet：一种基于大语言模型辅助的知识图谱引导时空网络，用于航空发动机剩余使用寿命预测|2026|Advanced Engineering Informatics|
+240|LLM-ADAM A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing|LLM-ADAM：一种通用的LLM智能体框架，用于增材制造预印本异常检测|2026|ArXiv|
+241|LLM-BFFD Fine-tuning pre-trained large language models for blast furnace fault diagnosis|LLM-BFFD：针对高炉故障诊断的预训练大型语言模型的微调|2026|Computers &amp; Chemical Engineering|[code](https://github.com/cykdmt/LLM-BFFD)
+242|LoRA-FosSm Mitigating Catastrophic Forgetting for Continual Bearing Fault Diagnosis|LoRA-FosSm：持续轴承故障诊断中缓解灾难性遗忘的方法|2026|Engineering Research Express|
+243|                                                              |                                                              |          |                                                              |
+244|                                                              |                                                              |          |                                                              |
+245|                                                              ||          |                                                              |
+246|||||
+247|||||
+248|||||
+249|||||
+250|||||
+251|||||
+252|||||
+253|||||
+254|||||
+255|||||
+256|||||
+257|||||
+258|||||
+259|||||
+260|||||
+261|||||
+262|||||
+263|||||
+264|||||
+265|||||
+266|||||
+267|||||
+268|||||
+269|||||
+270|||||
+271|||||
+272|||||
+273|||||
+274|||||
+275|||||
+276|||||
+277|||||
+278|||||
+279|||||
+290|||||
+291|||||
+292|||||
+.293|||||
+294|||||
+295|||||
+296|||||
+297|||||
+298|||||
+299|||||
+300|||||
+301|||||
+
+
 
 
 
