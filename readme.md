@@ -264,9 +264,9 @@ With the increasing proliferation of academic literature related to Large Langua
 240|LLM-ADAM A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing|LLM-ADAM：一种通用的LLM智能体框架，用于增材制造预印本异常检测|2026|ArXiv|
 241|LLM-BFFD Fine-tuning pre-trained large language models for blast furnace fault diagnosis|LLM-BFFD：针对高炉故障诊断的预训练大型语言模型的微调|2026|Computers &amp; Chemical Engineering|[code](https://github.com/cykdmt/LLM-BFFD)
 242|LoRA-FosSm Mitigating Catastrophic Forgetting for Continual Bearing Fault Diagnosis|LoRA-FosSm：持续轴承故障诊断中缓解灾难性遗忘的方法|2026|Engineering Research Express|
-243|                                                              |                                                              |          |                                                              |
-244|                                                              |                                                              |          |                                                              |
-245|                                                              ||          |                                                              |
+243| A review on large language models for industrial embodied intelligence | 工业实体智能大语言模型综述 | 2026 | Advanced Engineering Informatics |
+244| Zero-Shot Fault Diagnosis via LLM-Guided Complexity-Aware Fuzzy Boundary Learning | 通过LLM引导的复杂度感知模糊边界学习实现零样本故障诊断 | 2026 | IEEE Transactions on Industrial Informatics |
+245| Large language model-based fault diagnosis for lithium-ion batteries in cloud-edge systems |基于大语言模型的云边系统锂离子电池故障诊断| 2026 | Cell Reports Physical Science |
 246|||||
 247|||||
 248|||||
