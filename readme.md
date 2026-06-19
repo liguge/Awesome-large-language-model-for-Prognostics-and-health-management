@@ -331,3 +331,13 @@ With the increasing proliferation of academic literature related to Large Langua
 - chaohe#bjtu.edu.cn (please replace # by @)
 
 [![Hits](https://hits.sh/github.com/github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management.svg?label=Views&color=0891b2)](https://hits.sh/github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management/)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=liguge%2FAwesome-large-language-model-for-Prognostics-and-health-management&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=liguge/Awesome-large-language-model-for-Prognostics-and-health-management&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=liguge/Awesome-large-language-model-for-Prognostics-and-health-management&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=liguge/Awesome-large-language-model-for-Prognostics-and-health-management&type=date&legend=bottom-right" />
+ </picture>
+</a>
