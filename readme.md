@@ -1,6 +1,6 @@
 # Awesome large language model for Prognostics and health management
 
-![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260607-pink)
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260626-pink)
 
 > 用于预测性维护与健康管理的大型语言模型
 
@@ -199,7 +199,7 @@ With the increasing proliferation of academic literature related to Large Langua
 175|AeroGPT Leveraging Large-Scale Audio Model for Aero-Engine Bearing Fault Diagnosis|AeroGPT利用大规模音频模型进行航空发动机轴承故障诊断|2026|IEEE Transactions on Cybernetics|
 176|AI Large Models Empowering Intelligent Manufacturing Architecture, Evolution, and Prospects|人工智能大型模型推动智能制造体系的变革与发展，展现其广阔的应用前景|2026|SSRN|
  177 | A PI-Dual-STGCN Fault Diagnosis Model Based on the SHAP-LLM Joint Explanation Framework | 基于SHAP-LLM联合解释框架的PI-Dual-STGCN故障诊断模型          | 2026     | Sensors                                                      |
-178|Can Large Language Models Diagnose Machine Faults A Comprehensive Survey from Deep Learning to Foundation Models|大型语言模型能否诊断机器故障？从深度学习到基础模型的全面探讨|2026|TechRxiv|
+178|Reliability-aware dynamic graph fusion and LLM-based diagnostic assistant for bearing faults|可靠性感知的动态图融合及基于大语言模型的轴承故障诊断助手|2026|Advanced Engineering Informatics|
 179|CausaLM-Net An LLM-guided causal graph and state-space learning framework for fault diagnosis in cloud native 5G base stations|CausaLM-Net：一种基于大型语言模型的因果图与状态空间学习框架，用于云原生5G基站的故障诊断。|2026|Expert Systems with Applications|
  180 | A2RA-NSMTSllm Adversarially Aligning Retrieval-Augmented LLMs for Nonstationary Multivariate Time Series Forecasting | A2RA-NSMTSllm：一种用于非平稳多变量时间序列预测的、通过对抗性训练来优化检索增强型大型语言模型的方法 | 2026     | IEEE Transactions on Industrial Informatics                  |
 181|FISHER A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation|FISHER A：一种用于多模态工业信号综合表示的基模型|2026|ArXiv|[code](https://github.com/jianganbai/FISHER)
@@ -208,7 +208,7 @@ With the increasing proliferation of academic literature related to Large Langua
 184|InsightX Agent An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis|InsightX Agent：一种基于LMM的智能代理框架，配备了多种工具，可实现可靠的X射线无损检测分析。|2026|IEEE Transactions on Reliability|
 185|Knowledge-guided multimodal LLM with mixture-of-experts for interpretable defect detection and fault diagnosis An industrial AI copilot|基于知识引导的多模态大型语言模型，结合专家组合技术，可实现可解释的缺陷检测与故障诊断功能。真正的工业级人工智能助手|2026|Journal of Manufacturing Systems|
 186|Large Language and Foundation Models for Machinery Health Monitoring A Systematic Review|用于机械设备健康监测的大型语言模型与基础模型：一项系统性综述|2026|Applied Sciences|
-1873|PowerMistral A data-efficient wind power forecasting framework leveraging pre-trained large language models|PowerMistral：一种利用预训练大型语言模型的高效风电预测框架|2026|Applied Energy|
+187|PowerMistral A data-efficient wind power forecasting framework leveraging pre-trained large language models|PowerMistral：一种利用预训练大型语言模型的高效风电预测框架|2026|Applied Energy|
 188|Research on Root Cause Analysis Method for Certain Civil Aircraft Based on Ensemble Learning and Large Language Model Reasoning|基于集成学习与大型语言模型推理的某型民用飞机根本原因分析方法研究|2026|Machines|
 189|Robotic Systems and LLM Algorithms for Transforming Manufacturing Into Smart Autonomous Ecosystem|用于将制造业转变为智能自主生态系统的机器人系统与大型语言模型算法|2026|Advances in Computational Intelligence and Robotics|
 190|Signal LLM Fault perception and maintenance system for dual-drive hydraulic turbine bearings based on cross-attention-LLM|基于交叉注意力机制的LLM技术，用于双驱动液压涡轮机轴承的故障检测与维护系统|2026|Structural Health Monitoring|
@@ -238,13 +238,13 @@ With the increasing proliferation of academic literature related to Large Langua
 214|CoFAE-LLM framework: LLM-based diagnosis framework for multi-view evidential reasoning on rolling bearing vibration signals|CoFAE-LLM框架：基于LLM的滚动轴承振动信号多视角证据推理诊断框架|2026|Measurement Science and Technology|
 215|DML–LLM Hybrid Architecture for Fault Detection and Diagnosis in Sensor-Rich Industrial Systems|面向传感器密集型工业系统的故障检测与诊断的DML-LLM混合架构|2026|Sensors|
 216|Dynamic-static knowledge graph enhanced LLM reasoning for intelligent process planning in steel manufacturing|钢铁制造智能工艺规划中动态-静态知识图谱增强的大语言模型推理|2026|Journal of Manufacturing Systems|
-217|Fault decoupling in hydraulic systems: A large language model-assisted dual-stream multi-task learning approach|液压系统中的故障解耦：一种大型语言模型辅助的双流多任务学习方法|2026|Neurocomputing|
+217|FaultCollaborator A Collaborative Intelligent Agent Integrating Large Language Models and Domain-Specific Models for Intelligent Fault Diagnosis| FaultCollaborator：一种融合大语言模型与领域特定模型的协作智能代理，用于智能故障诊断 | 2026     |2026 IEEE International Symposium on Artificial Intelligence for Instrumentation and Measurement (AI4IM)|
 218|Human-in-the-loop and large language models in smart manufacturing: Current applications, challenges, and perspectives|智能制造中的人机协作与大语言模型：当前应用、挑战与前景|2026|Journal of Manufacturing Systems|
-219|Industrial knowledge-enhanced fault diagnosis method: Integrating LLM and knowledge graph for fault reasoning and maintenance recommendation in CNC machine tools|工业知识增强的故障诊断方法：集成LLM与知识图谱实现数控机床故障推理与维护建议|2026|Computers &amp; Industrial Engineering|
-220|Knowledge graph enhanced large language model framework for causal chain reasoning in industrial fault diagnosis|工业故障诊断中因果链推理的知识图谱增强型大语言模型框架|2026|Expert Systems with Applications|
+219|Progressive Knowledge-Guided Large Language Model Framework for Bearing Fault Diagnosis|渐进式知识引导的大型语言模型框架用于轴承故障诊断|2026|ArXiv|
+220|PropLLM Propagation-Aware Scene Reconstruction for Network Fault Diagnosis|PropLLM：面向网络故障诊断的感知传播场景重建| 2026     |ArXiv|
 221|Large Models for Machinery Fault Diagnosis: Current Advances and Future Directions|机械故障诊断的大模型：当前进展与未来方向|2026|Chinese Journal of Mechanical Engineering|
 222|Mutual Information Optimization Using Large Language Model for Domain Generalized Remaining Useful Life Prediction in IIoT|基于大语言模型的互信息优化用于工业物联网领域泛化剩余使用寿命预测|2026|IEEE Internet of Things Journal|
-223|Spectrum analysis and perception multimodal LLM for robust fault diagnosis under data scarcity|面向数据稀缺场景下稳健故障诊断的频谱分析与感知多模态大语言模型|2026|Measurement Science and Technology|
+223|Research on wind turbine fault root cause localization method integrating large language models and causal hypergraphs|融合大语言模型与因果超图的风电机组故障根因定位方法研究|2026|Computers and Electrical Engineering|
 224|TF-ProFM: Prototype-Based Time–Frequency Foundation Model for Generalizable Industrial Bearing Fault Diagnosis|TF-ProFM：基于原型的时间-频率基础模型，用于可泛化的工业轴承故障诊断|2026|IEEE Transactions on Industrial Informatics|
 225|Towards generalizable fault diagnosis via LLM-driven hierarchical cross-modal alignment|TF-ProFM：基于原型的时间-频率基础模型，用于可泛化的工业轴承故障诊断|2026|Knowledge-Based Systems|
 226|VLM-Guided Causal Reasoning Framework for Cross-domain Source-Free Industrial Fault Diagnosis|基于视觉语言模型引导的跨域无源工业故障诊断因果推理框架|2026|Chinese Journal of Mechanical Engineering|
@@ -255,11 +255,11 @@ With the increasing proliferation of academic literature related to Large Langua
 231|An adaptive industrial large language model for mechanical fault diagnosis under variable operating conditions|一种适用于变工况机械故障诊断的自适应工业大型语言模型|2026|Advanced Engineering Informatics|
 232|An instruction fine-tuning and retrieval-augmented generation framework for intelligent defect diagnosis and maintenance decision support in high-speed railway turnouts|高速铁路道岔智能化缺陷诊断与维护决策支持的指令微调和检索增强生成框架|2026|Computer-Aided Civil and Infrastructure Engineering|
 233|BearAgent Multi-Agent Diagnosis Optimization and Uncertainty-aware Decision-Making for Bearing Health Management|BearAgent：用于轴承健康管理的多智能体诊断优化与不确定性感知决策|2026|SSRN|
-234|Reliability-aware dynamic graph fusion and LLM-based diagnostic assistant for bearing faults|基于可靠性的动态图融合与LLM轴承故障诊断助手|2026| Advanced Engineering Informatics                             |
+234|Beyond Retraining Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision-Language Models|超越再训练：无监督未知类别过滤的零源开放集领域自适应方法——针对视觉-语言模型| 2026     | Proceedings of the AAAI Conference on Artificial Intelligence |
 235|ChatGPT-like large language models for testing and verification of autonomous intelligent systems a systematic review|像ChatGPT这样的大型语言模型在自主智能系统测试与验证中的应用：系统综述|2026|Journal of Reliability Science and Engineering|
 236|Cloud-Edge-Terminal Collaborative AI Agent for Compound Fault Detection and Diagnosis|云边端协同AI代理在复合故障检测与诊断中的应用|2026|Engineering|
 237|FD-DDLLM A large language model enhanced dual-domain transformer for intelligent fault diagnosis|FD-DDLLM：一种增强大型语言模型的双域变换器，用于智能故障诊断|2026|Structural Health Monitoring|
-2387|Large models for battery prognostics and health management A review and future roadmap|大型电池预测与健康管理模型：综述与未来路线图|2026|Renewable and Sustainable Energy Reviews|
+238|Large models for battery prognostics and health management A review and future roadmap|大型电池预测与健康管理模型：综述与未来路线图|2026|Renewable and Sustainable Energy Reviews|
 239|LKG-STNet A large language model-assisted knowledge graph-guided spatiotemporal network for aero-engine remaining useful life prediction|LKG-STNet：一种基于大语言模型辅助的知识图谱引导时空网络，用于航空发动机剩余使用寿命预测|2026|Advanced Engineering Informatics|
 240|LLM-ADAM A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing|LLM-ADAM：一种通用的LLM智能体框架，用于增材制造预印本异常检测|2026|ArXiv|
 241|LLM-BFFD Fine-tuning pre-trained large language models for blast furnace fault diagnosis|LLM-BFFD：针对高炉故障诊断的预训练大型语言模型的微调|2026|Computers &amp; Chemical Engineering|[code](https://github.com/cykdmt/LLM-BFFD)
@@ -267,31 +267,31 @@ With the increasing proliferation of academic literature related to Large Langua
 243| A review on large language models for industrial embodied intelligence | 工业实体智能大语言模型综述 | 2026 | Advanced Engineering Informatics |
 244| Zero-Shot Fault Diagnosis via LLM-Guided Complexity-Aware Fuzzy Boundary Learning | 通过LLM引导的复杂度感知模糊边界学习实现零样本故障诊断 | 2026 | IEEE Transactions on Industrial Informatics |
 245| Large language model-based fault diagnosis for lithium-ion batteries in cloud-edge systems |基于大语言模型的云边系统锂离子电池故障诊断| 2026 | Cell Reports Physical Science |
-246|||||
-247|||||
-248|||||
-249|||||
-250|||||
-251|||||
-252|||||
-253|||||
-254|||||
-255|||||
-256|||||
-257|||||
-258|||||
-259|||||
-260|||||
+246|Fault diagnosis of rotating machinery using large language models|基于大型语言模型的旋转机械故障诊断|2026|Engineering Research Express|
+247|Adaptive fixed-time prescribed performance control for nonlinear heterogeneous high-order multi-agent systems|自适应固定时间指定性能控制非线性异构高阶多智能体系统|2026|International Journal of Systems Science|
+248|ComfortLLM Compatible Multi-modality Fusion Oriented Large Language Model for Industrial Fault Diagnosis with Diverse Data|面向工业故障诊断的多模态融合兼容性大语言模型ComfortLLM|2026|IEEE Internet of Things Journal|
+249|DI-AGENT A domain-knowledge informed large language model framework for unified bearing health management|DI-AGENT：一个基于领域知识的统一轴承健康管理大语言模型框架|2026|Reliability Engineering &amp; System Safety|
+250|                                                              |                                                              |          |                                                              |
+251|                                                              |                                                              |          |                                                              |
+252|||          ||
+253|||          ||
+254|                                                              |                                                              |          |                                                              |                                                              
+ 255  |                                                              |                                                              |          |                                                              |                                                              
+ 256  |                                                              |                                                              |          |                                                              |
+257|                                                              |                                                              |          |                                                              |
+258|                                                              |                                                              |          |                                                              |
+259|                                                              |                                                              |          |                                                              |
+260|||          ||
 261|||||
 262|||||
 263|||||
 264|||||
-265|||||
-266|||||
-267|||||
-268|||||
+265|                                                              |                                                              |          |                                                              |
+266|                                                              |                                                              |          |                                                              |
+267|                                                              |                                                              |          |                                                              |
+268|                                                              |                                                              |          |                                                              |
 269|||||
-270|||||
+270|                                                              |                                                              |          |                                                              |
 271|||||
 272|||||
 273|||||
@@ -331,13 +331,3 @@ With the increasing proliferation of academic literature related to Large Langua
 - chaohe#bjtu.edu.cn (please replace # by @)
 
 [![Hits](https://hits.sh/github.com/github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management.svg?label=Views&color=0891b2)](https://hits.sh/github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management/)
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=liguge%2FAwesome-large-language-model-for-Prognostics-and-health-management&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=liguge/Awesome-large-language-model-for-Prognostics-and-health-management&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=liguge/Awesome-large-language-model-for-Prognostics-and-health-management&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=liguge/Awesome-large-language-model-for-Prognostics-and-health-management&type=date&legend=bottom-right" />
- </picture>
-</a>
