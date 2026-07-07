@@ -2,7 +2,7 @@
 
 ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260626-pink)
 
-> 用于预测性维护与健康管理的大型语言模型
+> 用于预测性维护与健康管理的大型语言模型（故障诊断；寿命预测）
 
 <img width="9400" height="5340" alt="llm_paper_wordcloud" src="https://github.com/user-attachments/assets/5dc23584-8b1a-4cc6-b3af-a458d6dca4cf" />
 
