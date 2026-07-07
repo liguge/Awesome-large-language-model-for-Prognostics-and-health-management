@@ -4,7 +4,7 @@
 
 > 用于预测性维护与健康管理的大型语言模型（故障诊断；寿命预测）
 
-
+![LLM Paper Word Cloud](https://raw.githubusercontent.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management/main/llm_paper_wordcloud1.png)
 
 #### **<u>We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.</u>**
 
