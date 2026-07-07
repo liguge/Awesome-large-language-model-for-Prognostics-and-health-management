@@ -4,7 +4,8 @@
 
 > 用于预测性维护与健康管理的大型语言模型（故障诊断；寿命预测）
 
-<img width="9400" height="5340" alt="llm_paper_wordcloud" src="https://github.com/user-attachments/assets/5dc23584-8b1a-4cc6-b3af-a458d6dca4cf" />
+
+
 
 
 #### **<u>We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.</u>**
