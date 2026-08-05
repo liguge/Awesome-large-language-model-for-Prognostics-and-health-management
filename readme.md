@@ -1,10 +1,11 @@
 # Awesome large language model for Prognostics and health management
 
-![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260626-pink)
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260805-pink)
 
 > 用于预测性维护与健康管理的大型语言模型（故障诊断；寿命预测）
 
 ![LLM Paper Word Cloud](https://raw.githubusercontent.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management/main/llm_paper_wordcloud1.png)
+
 
 #### **<u>We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.</u>**
 
@@ -271,26 +272,26 @@ With the increasing proliferation of academic literature related to Large Langua
 247|Adaptive fixed-time prescribed performance control for nonlinear heterogeneous high-order multi-agent systems|自适应固定时间指定性能控制非线性异构高阶多智能体系统|2026|International Journal of Systems Science|
 248|ComfortLLM Compatible Multi-modality Fusion Oriented Large Language Model for Industrial Fault Diagnosis with Diverse Data|面向工业故障诊断的多模态融合兼容性大语言模型ComfortLLM|2026|IEEE Internet of Things Journal|
 249|DI-AGENT A domain-knowledge informed large language model framework for unified bearing health management|DI-AGENT：一个基于领域知识的统一轴承健康管理大语言模型框架|2026|Reliability Engineering &amp; System Safety|
-250|                                                              |                                                              |          |                                                              |
-251|                                                              |                                                              |          |                                                              |
-252|||          ||
-253|||          ||
-254|                                                              |                                                              |          |                                                              |                                                              
- 255  |                                                              |                                                              |          |                                                              |                                                              
- 256  |                                                              |                                                              |          |                                                              |
-257|                                                              |                                                              |          |                                                              |
-258|                                                              |                                                              |          |                                                              |
-259|                                                              |                                                              |          |                                                              |
-260|||          ||
-261|||||
-262|||||
-263|||||
-264|||||
-265|                                                              |                                                              |          |                                                              |
-266|                                                              |                                                              |          |                                                              |
-267|                                                              |                                                              |          |                                                              |
-268|                                                              |                                                              |          |                                                              |
-269|||||
+250| A multi-agent and vision language model framework of digital twin for shop-floor self-decision-making control towards industry 5.0 high-performance manufacturing | 面向工业5.0高性能制造的车间自决策控制数字孪生多智能体与视觉语言模型框架 | 2026 | Journal of Industrial Information Integration |
+251| A Multimodal Large Language Model Framework for Partial Discharge Condition Assessment in Gas-Insulated Switchgear | 一种用于气体绝缘开关设备局部放电状态评估的多模态大语言模型框架 | 2026 | IEEE Transactions on Dielectrics and Electrical Insulation |
+252| Transformer-based deep reinforcement learning and small language models for production decision-making in remanufacturing systems | 基于Transformer的深度强化学习与小型语言模型在再制造系统生产决策中的应用 | 2026     | Journal of Engineering Design                                |
+253| CA-DLM: Causal-aware diffusion language model for interpretable industrial defective image generation | CA-DLM：面向可解释工业缺陷图像生成的因果感知扩散语言模型 | 2026 | Journal of Manufacturing Systems |
+ 254 | Chat with the manufacturing process: A knowledge-guided cross-modal large language model for machining condition predictive maintenance | 与制造过程对话：一种知识引导的跨模态大语言模型在加工工况预测性维护中的应用 | 2026 | Journal of Manufacturing Systems |[code](https://github.com/JaxsunLee/KG-CM-LLM)
+ 255 | CoLMAgent: A collaborative agentic AI system that integrates large and small models for industrial intelligent human–machine interactions | CoLMAgent：一种融合大小模型的协作式智能体AI系统，专为工业领域人机智能交互设计。 | 2026 | Journal of Manufacturing Systems |
+256| CrossSTLLM: A continually adaptive spatiotemporal large language model for anomaly detection and fault localization in wind turbines with diverse distribution | CrossSTLLM：一种面向风电机组的持续自适应时空大语言模型，用于分布异构场景下的异常检测与故障定位 | 2026 | Applied Energy |
+257| VibLLM: integrating discrete vibration tokens and physical priors into large language models for fault diagnosis | VibLLM：将离散振动令牌与物理先验融入大语言模型以实现故障诊断 | 2026 | International Conference on Electrical Engineering and Intelligent Systems (IC2EIS 2026) |
+258|Enhancing LLM inference with human expert knowledge: a case study on multi-agent robotics fault diagnosis and prediction|借助人类专家知识提升大语言模型推理能力：面向多智能体机器人故障诊断与预测的案例分析| 2026 |Artificial Life and Robotics|
+259|Generative AI in Industrial and Manufacturing Contexts: A Systematic Review of Applications, Challenges, and Future Directions|工业与制造业场景中的生成式人工智能：应用、挑战及未来方向的系统性综述|2026|Preprints|
+260|GMPF-LLM: gateless multi-physical fusion large language model for fault diagnosis|GMPF-LLM：面向故障诊断的无门控多物理场融合大语言模型|2026|Engineering Research Express|
+261| Industrial large model-driven online early fault warning: A novel incremental anomaly detection framework with wavelet scattering contrastive transformer | 工业大模型驱动的在线早期故障预警：一种融合小波散射对比Transformer的新型增量异常检测框架 | 2026 | Applied Soft Computing |
+262| Large Language and Foundation Models for Machinery Health Monitoring: A Systematic Review | 大型语言模型与基础模型在机械健康监测中的应用：系统性综述 | 2026 | Applied Sciences |
+263| Large language models for fault diagnosis in smart manufacturing: A comprehensive review | 智能制造中的故障诊断大语言模型：全面综述 | 2026 | Intelligent Systems with Applications |
+264|LLM-informed stage-aware and physics-guided remaining useful life prediction for rolling bearings|基于大语言模型的阶段感知与物理引导的滚动轴承剩余使用寿命预测|2026|Measurement Science and Technology|
+265|KG-SR-LLM: Knowledge-Guided Semantic Representation and Large Language Model Framework for Cross-Domain Bearing Fault Diagnosis|KG-SR-LLM：基于知识引导的语义表征与大语言模型跨域轴承故障诊断框架|2025|Sensors|
+266|Towards embodied AI in manufacturing: Review, Evaluation, and Future directions|迈向制造业中的具身人工智能：综述、评估与展望|2027|Robotics and Computer-Integrated Manufacturing|
+ 267  | Automated maintenance scheduling for military aircraft fleet: a multi-agent reinforcement learning approach | 军用飞机机队的自动化维护调度：一种多智能体强化学习方法       | 2027     | Reliability Engineering &amp; System Safety                  |                                                              
+ 268  |                                                              |                                                              |          |                                                              |
+269|                                                              |                                                              |          |                                                              |
 270|                                                              |                                                              |          |                                                              |
 271|||||
 272|||||
@@ -300,21 +301,6 @@ With the increasing proliferation of academic literature related to Large Langua
 276|||||
 277|||||
 278|||||
-279|||||
-290|||||
-291|||||
-292|||||
-.293|||||
-294|||||
-295|||||
-296|||||
-297|||||
-298|||||
-299|||||
-300|||||
-301|||||
-
-
 
 
 
