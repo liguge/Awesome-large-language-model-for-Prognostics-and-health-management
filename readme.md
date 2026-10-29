@@ -338,11 +338,14 @@ With the increasing proliferation of academic literature related to Large Langua
 313|A multi-agent system simulation framework for trace-driven verification and maintenance diagnostics of high-level Petri nets|面向高层佩特里网的踪迹驱动验证与维护诊断多智能体系统仿真框架|2027|Simulation Modelling Practice and Theory|
 314|FaultAgent A Human-in-the-Loop Intelligent Agent for Explainable and Knowledge-Enhanced Fault Diagnosis|FaultAgent：面向可解释、知识增强故障诊断的人在回路智能代理|2026|IEEE Transactions on Instrumentation and Measurement|
 315|One-Class Signal World Model for Label-Efficient Fault Diagnosis in a Multistage Centrifugal Pump|单类信号世界模型：面向多级离心泵的标签高效故障诊断|2026|Preprints|
-316|||||
-317|||||
-318|||||
-319|||||
-320|||||
+316|Large language models in intelligent manufacturing and mechanical engineering: a review of robotics, fault diagnosis, design, and engineering knowledge workflows|大语言模型在智能制造与机械工程中的应用：机器人、故障诊断、设计及工程知识工作流综述|2026|Journal of Intelligent Manufacturing|
+317|Digital twin-driven intelligent structural fault diagnosis and decision-making for earth-rock dams using large language models|基于数字孪生与大型语言模型的土石坝智能结构故障诊断与决策系统|2026|Engineering Structures|
+318|Dynamic knowledge graph enhanced large language model with cascade relation extraction optimized for aviation equipment fault diagnosis|面向航空装备故障诊断、经级联关系抽取优化的动态知识图谱增强大语言模型|2026|Engineering Applications of Artificial Intelligence|
+319|Signal–text fusion multimodal large language model for few-shot fault diagnosis of industrial robots|面向工业机器人小样本故障诊断的信号–文本融合多模态大语言模型|2027|Robotics and Computer-Integrated Manufacturing|
+320|FM-LLM: A Lightweight Multimodal LLM with Simulation-Augmented Data for Mechanical Fault Diagnosis|FM-LLM：一款基于仿真增强数据、用于机械故障诊断的轻量级多模态大语言模型|2026|Chinese Journal of Mechanical Engineering|
+321|EC-Distill-ZeroDiag: a cloud-edge collaborative framework for zero-shot industrial fault diagnosis via large language model distillation|EC-Distill-ZeroDiag：一种基于大模型蒸馏的云边协同零样本工业故障诊断框架|2026|Journal of Intelligent Manufacturing|
+322|Case-Driven Fault Diagnosis with Advanced Hallucination Mitigation in Large Language Models: A Way Towards Practical Applications|大模型中结合先进幻觉抑制方法的案例驱动故障诊断：一条走向实际应用的路径|2026|Chinese Journal of Mechanical Engineering|
+323|||||
 
 
 ------
